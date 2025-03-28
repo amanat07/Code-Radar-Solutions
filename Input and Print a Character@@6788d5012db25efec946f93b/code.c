@@ -4,6 +4,6 @@ int main() {
     char num;
     
     scanf("%char", &num);
-    printf("You entered: %.2f\n", num);
+    printf("You entered: %.2char\n", num);
     return 0;
 }
